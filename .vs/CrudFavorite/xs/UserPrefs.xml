@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{7DD4935A-7B1F-4D70-96C5-6C2E04C6587B}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CrudFavorite/Program.cs">
+    <Files>
+      <File FileName="CrudFavorite/Favorite.cs" />
+      <File FileName="CrudFavorite/FavoriteDb.cs" />
+      <File FileName="CrudFavorite/Program.cs" Line="24" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CrudFavorite" expanded="True">
+            <Node name="CrudFavorite" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CrudFavorite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

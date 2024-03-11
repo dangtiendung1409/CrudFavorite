@@ -1,0 +1,12 @@
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/CrudFavorite
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/CrudFavorite.dll
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/CrudFavorite.deps.json
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/CrudFavorite.runtimeconfig.json
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/CrudFavorite.pdb
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.dll
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.InMemory.dll
+/Users/dungdang/Projects/CrudFavorite/CrudFavorite/obj/Release/net7.0/PubTmp/Out/Microsoft.EntityFrameworkCore.Relational.dll
